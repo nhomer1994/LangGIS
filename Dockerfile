@@ -19,7 +19,7 @@ RUN pip install --upgrade pip && pip install -r requirements.txt
 COPY src/ /app/src/
 COPY notebooks/ /app/notebooks/
 COPY data/ /app/data/
-COPY app.py /app/app.py
+COPY src/app.py /app/app.py
 
 # Default: run Streamlit app 
 ENTRYPOINT ["streamlit", "run", "src/app.py"]
