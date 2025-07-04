@@ -9,3 +9,6 @@ requests
 pystac-client
 rasterio
 rasterstats
+matplotlib
+notebook
+ipykernel
