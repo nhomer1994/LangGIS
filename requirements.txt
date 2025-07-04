@@ -1,0 +1,11 @@
+pyspark
+apache-sedona
+geopandas
+osmnx
+langchain
+streamlit
+duckdb
+requests
+pystac-client
+rasterio
+rasterstats

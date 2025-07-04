@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data
+data/
+*.osm
+*.pbf
+*.sqlite
+*.db
+*.csv
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Virtual env
+venv/
+.env
