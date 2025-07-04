@@ -12,3 +12,4 @@ rasterstats
 matplotlib
 notebook
 ipykernel
+pyarrow
